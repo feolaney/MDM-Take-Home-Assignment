@@ -1,5 +1,3 @@
-Although some of the instructions took the stance of packages/scripts that are being created for device management but not explicitly deployed through the MDM software that Airtable uses (Jamf/Intune), I have decided to organize and prepare my results from the tasks as if they were going to be deployed through an MDM.
-
 # Section 1 - Packaging Task
 ## macOS/Jamf
 Deploying Chrome to macOS, normally, I wouldn’t create an additional package on the macOS side. The package provided by Google is already a deployable PKG that installs silently when executed from the command line or deployed through an MDM. It installs correctly in the system context with proper permissions.
