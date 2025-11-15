@@ -1,0 +1,15 @@
+repository,description,stars,last_updated
+sofa,SOFA | A MacAdmin's Simple Organized Feed for Apple Software Updates,332,2025-11-15T00:50:42Z
+SupportCompanion,macOS helper application designed to empower end-users,161,2025-11-14T17:24:11Z
+jamf-pro-sdk-python,A client library for the Jamf Pro APIs and webhooks.,65,2025-11-14T17:23:17Z
+ddm_infra,Example Repo for setting up a nanoMDM + kmfddm server.,6,2025-11-14T17:23:15Z
+default-browser,A command line utility for setting the default browser for a user on macOS,46,2025-11-14T17:23:04Z
+escrow-buddy,A macOS authorization plugin that helps MDM administrators ensure valid FileVault keys are escrowed for all their Macs.,257,2025-11-13T23:11:08Z
+SplashBuddy,Onboarding splash screen for MDM and Automated Device Enrollment.,407,2025-11-13T20:37:45Z
+munki-builds,,27,2025-11-10T21:36:25Z
+installapplications,A tool for dynamically using installapplication,299,2025-11-10T21:01:10Z
+nudge,A tool for encouraging the installation of macOS security updates.,1209,2025-11-10T12:08:16Z
+outset,"Automatically process packages and scripts during boot, login, or on demand.",214,2025-11-09T20:16:12Z
+osquery-extension,An osquery extension for endpoint engineers,114,2025-11-04T06:02:20Z
+macadmins.io,,23,2025-10-25T06:17:12Z
+puppet-mac_profiles_handler,Puppet Module for managing macOS + OS X Configuration Profiles,6,2025-10-23T23:33:51Z
